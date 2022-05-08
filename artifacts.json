@@ -1,9 +1,9 @@
 {
-    "latest_build_number": -1,
-    "artifacts": [
-        {
-            "build_number": -1,
-            "version": "####"
-	}
-    ]
+  "latest_build_number": 0,
+  "artifacts": [
+    {
+      "build_number": 0,
+      "version": "0.1.0"
+    }
+  ]
 }
